@@ -1,0 +1,11 @@
+.styledFont {
+    text-decoration: dotted;
+    text-align: center;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    color:mediumseagreen;
+}
+
+#styledImage {
+    border: 2px solid yellow;
+}
